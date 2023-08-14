@@ -1,10 +1,7 @@
 <h1>D287 Task 1</h1>
 
 <h2>Notes</h2>
-    I added the line numbers to each section of this README at the time that it was commited. The original
-    line number reflects the line number at the time of the commit. I've added the commit sha and its commit
-    message so you can look back at it. I've also looked over the project again and added update statements
-    to all the line numbers that I noticed change. 
+    The below was for my original assignment in my school specific repo. None of the commits correspond to this repo. 
 
 <h2>Part C:</h2>
     Associated commits: 50ac9575275ea137ad23aeb58acfe51786ee567a
